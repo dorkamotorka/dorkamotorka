@@ -1,4 +1,4 @@
-### Hello World, I'm dorkamotorka 👋
+### Hello World, I'm Teodor 👋
 
 - 🔭 I’m currently doing Research in Cloud Computing
 - 📫 Ping me on [Linkedin](https://www.linkedin.com/in/teodor-janez-podobnik/) or [Twitter](https://twitter.com/TeodorJanez) 
