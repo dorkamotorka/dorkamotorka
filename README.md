@@ -1,6 +1,5 @@
 ### Hello World, I'm Teodor 👋
-
-- 🔭 I’m currently doing Research in Cloud Computing
+- 🔭 I’m currently doing Research in Cloud Computing at the [University of Ljubljana, Faculty of Computer Science](https://www.fri.uni-lj.si/en)
 - 📫 Ping me on [Linkedin](https://www.linkedin.com/in/teodor-janez-podobnik/) or [Twitter](https://twitter.com/TeodorJanez) 
 - 📰 I also have a [blog](https://medium.com/@cloudchirp)
 - 📚 Fun fact: I write [e-books](https://dorkamotorka.gumroad.com/l/beyord-your-horizon-tjp) as well.
