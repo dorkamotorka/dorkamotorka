@@ -2,7 +2,7 @@
 - 🔭 I’m currently doing Research in Cloud Computing at the [University of Ljubljana, Faculty of Computer Science](https://www.fri.uni-lj.si/en)
 - 📫 Ping me on [Linkedin](https://www.linkedin.com/in/teodor-janez-podobnik/) or [Twitter](https://twitter.com/TeodorJanez) 
 - 📰 I also have a [blog](https://medium.com/@cloudchirp)
-- 📚 Fun fact: I write [e-books](https://dorkamotorka.gumroad.com/l/beyord-your-horizon-tjp) as well.
+- 📚 Fun fact: I published an [e-book](https://dorkamotorka.gumroad.com/l/beyord-your-horizon-tjp) as well.
 
 ![dorkamotorka's github stats](https://github-readme-stats.vercel.app/api?username=dorkamotorka&show_icons=true&line_height=21&show_icons=true&theme=nord)
 <span style="display:inline-block; width: 10px;"></span>
