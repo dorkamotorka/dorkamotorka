@@ -1,5 +1,5 @@
 ### Hello World, I'm Teodor 👋
-- 🔭 I’m currently doing Research in Cloud Computing at the [University of Ljubljana, Faculty of Computer Science](https://www.fri.uni-lj.si/en)
+- 🔭 I’m currently working as a SRE at [Prewave](https://www.prewave.com/) and a Technical Writer for companies like Anteon, AccuKnox
 - 📫 Ping me on [Linkedin](https://www.linkedin.com/in/teodor-janez-podobnik/)
 - 📰 I also have a newsletter on eBPF called [eBPFChirp](https://ebpfchirp.substack.com/)
 - 📚 I have my own [e-book](https://dorkamotorka.gumroad.com/l/beyord-your-horizon-tjp) as well.
