@@ -9,5 +9,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorkamotorka&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true)
 
 ![dorkamotorka's trophy](https://github-profile-trophy.vercel.app/?username=dorkamotorka&theme=nord&column=7&margin-w=10&margin-h=15)
-
-![dorkamotorka's blog](https://github-read-medium.vercel.app/latest?username=cloudchirp&limit=6&theme=nord)
